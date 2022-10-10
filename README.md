@@ -6,3 +6,6 @@ Gutmann Wandhaube Adelante reverse engineering
 
 ## Back
 ![Controller Back](./ControllerBack.png)
+
+## Pinout
+![Pinout](./Pinout.jpg)
